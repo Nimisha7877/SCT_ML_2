@@ -41,6 +41,14 @@ This project uses **K-Means Clustering** to segment mall customers into distinct
 - Visualizations using Matplotlib
 
 ---
+## 📊 Output Example
+
+### 🔹 Final Clusters (K=5)
+
+The K-Means model identified 5 distinct customer segments based on annual income and spending score.
+
+![Customer Segments](images/output_plot.png)
+
 
 ## 🚀 How to Run the Project
 
@@ -65,11 +73,4 @@ If you're using Google Colab:
 ```bash
 pip install pandas matplotlib scikit-learn
 
-## 📊 Output Example
-
-### 🔹 Final Clusters (K=5)
-
-The K-Means model identified 5 distinct customer segments based on annual income and spending score.
-
-![Customer Segments](images/output_plot.png)
 
