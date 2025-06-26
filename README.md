@@ -19,7 +19,7 @@ This project uses **K-Means Clustering** to segment mall customers into distinct
 ## 🧾 Dataset Details
 
 - **File Used:** `Mall_Customers.csv`
-- **Source:** [Kaggle - Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial)
+- **Source:** [Kaggle - Mall Customer Segmentation Data]https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 | Column Name             | Description                         |
 |-------------------------|-------------------------------------|
